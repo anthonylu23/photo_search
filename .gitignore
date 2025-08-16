@@ -1,0 +1,8 @@
+#__pycache__
+__pycache__/
+
+#chroma_langchain_db
+chroma_langchain_db/
+
+#venv
+venv/
