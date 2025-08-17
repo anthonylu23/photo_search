@@ -6,3 +6,12 @@ chroma_langchain_db/
 
 #venv
 venv/
+
+#env
+.env
+
+#display
+display_chromadb.py
+
+#testing
+sandbox.py
