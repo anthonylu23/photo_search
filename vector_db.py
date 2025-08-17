@@ -47,4 +47,4 @@ def vectorize_directory(directory):
                       persist_directory="./chroma_langchain_db")
     return vector_store, collection
 
-vector_store, collection = vectorize_directory("/Users/anthony/Documents/CS/Coding/photo_query/test_photos")
+vector_store, collection = vectorize_directory("../test_photos")

@@ -14,4 +14,4 @@ venv/
 display_chromadb.py
 
 #testing
-sandbox.py
+sandbox

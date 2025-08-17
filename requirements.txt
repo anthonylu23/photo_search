@@ -1,0 +1,16 @@
+python-dotenv
+transformers
+torch
+safetensors
+sentencepiece
+langchain-core
+langchain-huggingface
+langchain-chroma
+langsmith
+chromadb
+open-clip-torch
+timm
+pillow
+numpy
+google-genai
+typing_extensions
